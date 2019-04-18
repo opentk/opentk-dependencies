@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>opentoolkit.redist.glfw</id>
+    <version>3.3.0-pre</version>
+    <authors>OpenToolkit</authors>
+    <owners>OpenToolkit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Zlib</license>
+    <projectUrl>https://www.glfw.org/</projectUrl>
+    <iconUrl>https://opentk.net/assets/opentk.png</iconUrl>
+    <description>GLFW redistributables for OpenTK.</description>
+  </metadata>
+</package>

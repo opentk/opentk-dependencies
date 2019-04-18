@@ -1,0 +1,1 @@
+powershell -File buildpackage.ps1 -pre %*
